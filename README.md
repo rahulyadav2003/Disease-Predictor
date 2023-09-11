@@ -12,3 +12,5 @@ After downloading all the necessary libraries in your envirinment.
 Now type command in terminal "streamlit run app.py"
 
 # Result
+
+<img scr="./Screen shots./Screenshot (19).png">
