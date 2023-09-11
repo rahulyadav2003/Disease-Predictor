@@ -13,4 +13,6 @@ Now type command in terminal "streamlit run app.py"
 
 # Result
 
-![ScreenShots] (Screen Shots/Screenshot (19).png)
+![Screenshot (19)](https://github.com/rahulyadav2003/Disease-Predictor/assets/101450904/e2dcbee5-1ebf-4e62-8daa-22a025f988e7)
+![Screenshot (21)](https://github.com/rahulyadav2003/Disease-Predictor/assets/101450904/98ea4fdb-17ed-4b93-8255-503009b247e4)
+![Screenshot (20)](https://github.com/rahulyadav2003/Disease-Predictor/assets/101450904/08a0803b-cd64-4ed6-b515-8fec32707927)
