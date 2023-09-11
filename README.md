@@ -13,4 +13,4 @@ Now type command in terminal "streamlit run app.py"
 
 # Result
 
-<img scr="./Screen shots./Screenshot (19).png">
+<img scr="./Screen Shots/Screenshot (19).png">
