@@ -13,4 +13,4 @@ Now type command in terminal "streamlit run app.py"
 
 # Result
 
-! [ScreenShots] (Screen Shots/Screenshot (19).png)
+![ScreenShots] (Screen Shots/Screenshot (19).png)
